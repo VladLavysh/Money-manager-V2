@@ -1,3 +1,9 @@
 <template>
-  <h1>Index page</h1>
+  <h1>Some text</h1>
 </template>
+
+<script>
+export default {
+  name: 'IndexPage'
+}
+</script>
