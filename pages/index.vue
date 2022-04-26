@@ -3,7 +3,14 @@
 </template>
 
 <script>
+import { ref } from "@vue/composition-api"
+
 export default {
-  name: 'IndexPage'
+  name: 'IndexPage',
+  // setup() {
+  //   const count = ref(0);
+  //
+  //   return {count}
+  // }
 }
 </script>
